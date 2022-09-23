@@ -10,3 +10,5 @@ conf.sequelize.port = 3306;
 conf.sequelize.define = {charset: 'utf8mb4', dialectOptions: {collate: 'utf8mb4_unicode_ci'}}
 conf.ROUND_SALT = 8;
 module.exports = conf;
+
+//ini tambahan buat sample
